@@ -21,8 +21,6 @@ Actively pursuing a career in cybersecurity with a strong interest in Security O
 | Network Log Analysis          | Wireshark TCP/HTTP inspection & SYN flood investigation |
 | Threat Detection (IDS)        | ML-based Intrusion Detection System                     |
 | System Hardening              | OS Hardening Audit & Report                             |
-| Cloud & AI Fundamentals       | IBM SkillsBuild Virtual Internship                      |
-| Audit & GRC Fundamentals      | Compliance checklist simulation (Google Cyber Cert)     |
 
 ---
 
