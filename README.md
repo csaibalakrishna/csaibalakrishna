@@ -1,5 +1,5 @@
 # 👋 Hello, I'm C SAI BALA KRISHNA  
-<a href="https://www.linkedin.com/in/c-sai-bala-krishna-5109b5265/">
+<a href="[https://www.linkedin.com/in/c-sai-bala-krishna-5109b5265/"](https://www.linkedin.com/in/c-sai-bala-krishna-5109b5265/)">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
