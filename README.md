@@ -1,16 +1,36 @@
-# Hello, I'm C SAI BALA KRISHNA
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hello, I'm C SAI BALA KRISHNA  
+<a href="https://www.linkedin.com/in/c-sai-bala-krishna-5109b5265/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+🎓 2nd-year B.Tech student with a growing foundation in **cybersecurity** and a focus on **Blue Team operations**.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+---
 
-## Objective
+## 🎯 Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Actively pursuing a career in cybersecurity with a strong interest in Security Operations Centers (SOC). Currently building hands-on skills in **threat detection, log analysis, and system hardening**, aiming for a Tier 1 SOC Analyst or cybersecurity intern role.
 
-## Skills
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+## 🛠️ Skills & Applied Projects
 
+| Skill                         | Associated Project                                      |
+|------------------------------|----------------------------------------------------------|
+| Python Scripting              | Ethical brute-force key script (AIG Simulation)         |
+| Network Log Analysis          | Wireshark TCP/HTTP inspection & SYN flood investigation |
+| Threat Detection (IDS)        | ML-based Intrusion Detection System                     |
+| System Hardening              | OS Hardening Audit & Report                             |
+| Cloud & AI Fundamentals       | IBM SkillsBuild Virtual Internship                      |
+| Audit & GRC Fundamentals      | Compliance checklist simulation (Google Cyber Cert)     |
 
+---
+
+## 📫 Let's Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/c-sai-bala-krishna-5109b5265/)  
+📬 Feel free to connect or collaborate on beginner-friendly Blue Team or SOC-related projects.
+
+---
+
+> *“Cybersecurity isn’t a product, it’s a process.”*
