@@ -28,7 +28,7 @@ Actively pursuing a career in cybersecurity with a strong interest in Security O
 ## 🚀 Highlight Projects
 
 ### ⚡ EV Demand Prediction using ML
-Created a machine learning model to predict electric vehicle demand across Indian counties for the next 3 years. Used data preprocessing, feature selection, and Random Forest to output accurate, county-level forecasts based on user inputs.
+Created a machine learning model to predict electric vehicle demand across counties for upcoming years. Used data preprocessing, feature selection, and Random Forest to output accurate, county-level forecasts based on user inputs.
 
 ---
 
