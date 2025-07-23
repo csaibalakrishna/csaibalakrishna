@@ -21,6 +21,14 @@ Actively pursuing a career in cybersecurity with a strong interest in Security O
 | Network Log Analysis          | Wireshark TCP/HTTP inspection & SYN flood investigation |
 | Threat Detection (IDS)        | ML-based Intrusion Detection System                     |
 | System Hardening              | OS Hardening Audit & Report                             |
+| Machine Learning & Forecasting| EV Demand Prediction ML Model                           |
+
+---
+
+## 🚀 Highlight Projects
+
+### ⚡ EV Demand Prediction using ML
+Created a machine learning model to predict electric vehicle demand across Indian counties for the next 3 years. Used data preprocessing, feature selection, and Random Forest to output accurate, county-level forecasts based on user inputs.
 
 ---
 
