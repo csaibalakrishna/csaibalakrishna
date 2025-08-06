@@ -15,17 +15,26 @@ Actively pursuing a career in cybersecurity with a strong interest in Security O
 
 ## 🛠️ Skills & Applied Projects
 
-| Skill                         | Associated Project                                      |
-|------------------------------|----------------------------------------------------------|
-| Python Scripting              | Ethical brute-force key script (AIG Simulation)         |
-| Network Log Analysis          | Wireshark TCP/HTTP inspection & SYN flood investigation |
-| Threat Detection (IDS)        | ML-based Intrusion Detection System                     |
-| System Hardening              | OS Hardening Audit & Report                             |
-| Machine Learning & Forecasting| EV Demand Prediction ML Model                           |
+| Skill                          | Associated Project                                        |
+|-------------------------------|------------------------------------------------------------|
+| Python Scripting               | Ethical brute-force key script (AIG Simulation)           |
+| Network Log Analysis           | Wireshark TCP/HTTP inspection & SYN flood investigation   |
+| Threat Detection (IDS)         | ML-based Intrusion Detection System                       |
+| System Hardening               | OS Hardening Audit & Report                               |
+| Machine Learning & Forecasting | EV Demand Prediction ML Model                             |
 
 ---
 
 ## 🚀 Highlight Projects
+
+### 🔗 Automated URL Threat Detector
+Built a Python tool that checks URLs against VirusTotal and other threat intelligence APIs to detect phishing, malware, and malicious domains. Automated threat scoring and generated risk reports to assist in faster triage for SOC analysts.
+
+### 🧠 Anomaly-Based Intrusion Detection System (IDS)
+Developed a lightweight ML-based IDS using the CIC-IDS 2017 dataset, selecting the top 15 features to reduce model complexity. Achieved >90% accuracy using Random Forest and optimized the model for real-time detection in resource-limited environments.
+
+### ☁️ AI Project on IBM Cloud (SkillsBuild)
+Designed and deployed an AutoAI model on IBM Cloud to predict eligibility for government pension schemes based on demographic attributes. Integrated frontend with backend ML model via API for seamless predictions.
 
 ### ⚡ EV Demand Prediction using ML
 Created a machine learning model to predict electric vehicle demand across counties for upcoming years. Used data preprocessing, feature selection, and Random Forest to output accurate, county-level forecasts based on user inputs.
