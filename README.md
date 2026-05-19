@@ -19,7 +19,7 @@
 # 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/SAI_BALA_KRISHNA?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
