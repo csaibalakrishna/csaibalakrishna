@@ -16,19 +16,6 @@
 
 ---
 
-# 📊 GitHub & Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csaibalakrishna&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csaibalakrishna&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csaibalakrishna&theme=tokyonight" height="170"/>
-</p>
-
----
-
 # 💻 LeetCode Stats
 
 <p align="center">
@@ -118,7 +105,7 @@ Developed forecasting models for EV infrastructure demand prediction using histo
 
 # 📈 Coding Profiles
 
-* 🔗 [LeetCode](https://leetcode.com/)
+* 🔗 [LeetCode](https://leetcode.com/SAI_BALA_KRISHNA)
 * 🔗 [GitHub](https://github.com/csaibalakrishna)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/c-sai-bala-krishna-5109b5265/)
 
