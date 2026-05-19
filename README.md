@@ -8,14 +8,6 @@
 
 ---
 
-# Currently Working On
-
-* Real-time Graph Neural Network based threat prediction systems
-* Backend engineering with FastAPI & WebSockets
-* ML-powered cybersecurity pipelines
-
----
-
 # 🚀 Current Focus
 
 * Real-time threat intelligence systems
