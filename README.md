@@ -1,4 +1,4 @@
-# 👋 Hello, I'm C SAI BALA KRISHNA
+# Hello, I'm C SAI BALA KRISHNA
 
 <a href="https://www.linkedin.com/in/c-sai-bala-krishna-5109b5265/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -8,19 +8,11 @@
 
 ---
 
-# 📌 Currently Working On
+# Currently Working On
 
 * Real-time Graph Neural Network based threat prediction systems
 * Backend engineering with FastAPI & WebSockets
 * ML-powered cybersecurity pipelines
-
----
-
-# 💻 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/SAI_BALA_KRISHNA?theme=dark&font=Karma&ext=heatmap" />
-</p>
 
 ---
 
@@ -34,7 +26,7 @@
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
 | Domain            | Technologies                                                   |
 | ----------------- | -------------------------------------------------------------- |
@@ -49,7 +41,7 @@
 
 # 🔥 Featured Projects
 
-## 🧠 Proactive Early Cyber Threat Prediction in Time-Evolving Digital Networks
+## Proactive Early Cyber Threat Prediction in Time-Evolving Digital Networks
 
 Built a real-time cyber threat intelligence platform integrating graph neural networks, temporal graph construction, and live risk scoring for behavioral threat prediction.
 
@@ -70,7 +62,7 @@ Built a real-time cyber threat intelligence platform integrating graph neural ne
 
 ---
 
-## 🛡️ Real-Time IoT Intrusion Detection System
+##  Real-Time IoT Intrusion Detection System
 
 Developed a lightweight ML-based IDS optimized for real-time intrusion detection in IoT environments.
 
@@ -102,8 +94,15 @@ Designed and deployed an AutoAI model on IBM Cloud for government scheme eligibi
 Developed forecasting models for EV infrastructure demand prediction using historical county-level datasets and ML-based forecasting pipelines.
 
 ---
+# LeetCode Stats
 
-# 📈 Coding Profiles
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SAI_BALA_KRISHNA?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+# Coding Profiles
 
 * 🔗 [LeetCode](https://leetcode.com/SAI_BALA_KRISHNA)
 * 🔗 [GitHub](https://github.com/csaibalakrishna)
@@ -111,7 +110,7 @@ Developed forecasting models for EV infrastructure demand prediction using histo
 
 ---
 
-# 📫 Let's Connect
+#  Let's Connect
 
 I'm actively exploring opportunities in:
 
